@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">"Learning, coding, and growing one project at a time"</h3>
 
-
+<h3 align="left">About Me:</h3>
 
 - 🔭 I'm currently learning **Nest.js**
 - 💬 Ask me about **Backend Development, problem solving**
@@ -61,17 +61,21 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   </a>
 </p>
-
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/noran-hamdy-058473224/" target="_blank">
+<p align="left" style="display: flex; gap: 0;">
+  <a href="https://www.linkedin.com/in/noran-hamdy-058473224/" target="_blank" style="margin: 0; border: none; outline: none; box-shadow: none;">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/devnoranhamdy" target="_blank">
+  <a href="https://github.com/devnoranhamdy" target="_blank" style="margin: 0; border: none; outline: none; box-shadow: none;">
     <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:noranhamdy783@gmail.com" target="_blank" style="margin: 0; border: none; outline: none; box-shadow: none;">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -79,12 +83,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devnoranhamdy&show_icons=true&locale=en&layout=compact&theme=light" alt="devnoranhamdy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnoranhamdy&theme=light" alt="devnoranhamdy" />
-</p>
 
 
