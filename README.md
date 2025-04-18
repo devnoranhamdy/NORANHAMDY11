@@ -4,14 +4,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=bc436b&center=true&vCenter=true&width=1000&lines=Hello+there%2C+I'm+Noran+%F0%9F%91%8B%F0%9F%8F%BC%3BBackend+Developer+who+loves+solving+problems+with+clean+code)](https://git.io/typing-svg)
 
 </div>
-<h3 align="center">"Learning, coding, and growing one project at a time"</h3>
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I'm currently learning **Nest.js**
-- 💬 Ask me about **Backend Development, problem solving**
-- 📫 How to reach me **noranhamdy783@gmail.com**
+ - 🎓 **Computer Science Fresh graduate** 
+ - 🔧 I'm proficient in **Node.js**, **Express.js**, and **MongoDB**, always eager to learn and explore new technologies.
+ - 🔭 Currently learning **Nest.js** to deepen my backend development skills.
+ - 💬 Feel free to ask me about **Backend Development**, **Problem Solving**, and **Software Engineering**.
+ - 🎯 Passionate about becoming a **Software Engineer** and using technology to drive innovation.
+ - -📫 How to reach me: **noranhamdy783@gmail.com**.
+  
 
+🚀 Let's connect and build something amazing together !
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -82,6 +86,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=bc436b&center=true&vCenter=true&width=1000&lines=Learning%2C+coding%2C+and+growing+one+project+at+a+time" alt="Typing SVG">
+  </a>
+</div>
+
 
 
 
