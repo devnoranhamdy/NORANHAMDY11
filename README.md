@@ -1,8 +1,12 @@
 <img src="banner_github.gif" alt="GitHub Banner" width="100%" />
-<h1 align="center">Hello there, I'm Noran 👋🏼</h1>
-<h3 align="center">Backend Developer who loves turning real-world problems into clean code</h3>
+<div align="center">
 
-<p align="center"><em>"Learning, coding, and growing one project at a time"</em></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=bc436b&center=true&vCenter=true&width=1000&lines=Hello+there%2C+I'm+Noran+%F0%9F%91%8B%F0%9F%8F%BC%3BBackend+Developer+who+loves+solving+problems+with+clean+code)](https://git.io/typing-svg)
+
+</div>
+<h3 align="center">"Learning, coding, and growing one project at a time"</h3>
+
+
 
 - 🔭 I'm currently learning **Nest.js**
 - 💬 Ask me about **Backend Development, problem solving**
@@ -69,6 +73,12 @@
   </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devnoranhamdy&show_icons=true&locale=en&layout=compact&theme=light" alt="devnoranhamdy" />
 </p>
@@ -78,8 +88,3 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
